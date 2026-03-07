@@ -123,14 +123,14 @@ Opportunity 3:
 Top Doctor Potential:
 ```
 ---
-
-**MPO Name:**
+```
+MPO Name:
 
 Monthly Target:
 
 Strength:
 Weakness:
-
+```
 ---
 
 # 🧠 Leadership Reflection
