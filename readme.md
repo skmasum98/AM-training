@@ -1,13 +1,3 @@
-আপনার লক্ষ্য যেহেতু **“Area Manager এমনভাবে তৈরি করা যেন তারা সারাজীবন এই ট্রেনিং ভুলতে না পারে”**, তাই Elite Roadmap-টা হবে **Mindset → Market Mastery → Prescription Power → Leadership → Market Domination** এই ৫ স্তরের উপর।
-
-এটা এমনভাবে ডিজাইন করা হয়েছে যাতে
-✔ প্রতিদিন শেখা
-✔ নিয়মিত Field Task
-✔ বাস্তব Market Analysis
-✔ Leadership Transformation
-
----
-
 # 🚀 Pharma Area Manager ELITE 30 Days Roadmap
 
 ## PHASE 1 — Leader Identity & Strategic Mindset
