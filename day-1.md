@@ -115,13 +115,13 @@
 # 📊 Report Format (WhatsApp)
 
 **Area Name:**
-
+```
 Opportunity 1:
 Opportunity 2:
 Opportunity 3:
 
 Top Doctor Potential:
-
+```
 ---
 
 **MPO Name:**
